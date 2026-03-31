@@ -22,4 +22,4 @@ This repository contains my work for Homework 1. The goal of this assignment is 
 - Updated README and added video link
 
 ## Video
-[Paste your unlisted YouTube or Vimeo link here]
+[https://youtu.be/SUdVYqKra_Y]
